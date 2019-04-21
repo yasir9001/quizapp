@@ -5,7 +5,7 @@ export class MainScreen extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            toggle: false
+            toggle: true
         }
     }
 
